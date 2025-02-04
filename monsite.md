@@ -60,6 +60,4 @@ in_menu: true
 
   <footer>
     <p>© 2025 Thibault Bernard | Tous droits réservés</p>
-    </footer>
-</body>
-</html> 
+    </footer> 
