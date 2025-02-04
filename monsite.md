@@ -7,7 +7,7 @@ in_menu: true
 
 ## Bonjour, Thibault BERNARD
 ### TECHNICIEN D'ASSISTANCE INFORMATIQUE
-[Voir mon CV](#cv)
+[Voir mon CV](https://tbernardweb.github.io/mon-site/monsite.html#cv)
 
 ---
 
