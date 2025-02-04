@@ -1,7 +1,7 @@
 ---
 title: "Compétences"
 order: 2
-in_menu: false
+in_menu: true
 ---
 # 🎓
 ## Compétences
