@@ -40,7 +40,6 @@ in_menu: true
             <li>Gestion des serveurs</li>
             <li>Support utilisateur</li>
         </ul>
-    </div>
 </section>
 
 <section>
