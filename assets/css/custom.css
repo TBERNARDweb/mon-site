@@ -1,1 +1,75 @@
 
+/* Réinitialisation des marges et des paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Style général */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Conteneur principal */
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 30px 0;
+}
+
+/* Section d'accueil */
+header {
+  background-color: #0044cc;
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+  border-bottom: 5px solid #0033a0;
+}
+
+header h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+header .button {
+  background-color: #71fffaec;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.2em;
+}
+
+header .button:hover {
+  background-color: #04d601cc;
+}
+
+/* Section À propos de moi */
+#about {
+  background-color: #ffffff;
+  padding: 40px 0;
+  text-align: center;
+}
+
+#about p {
+  font-size: 1.2em;
+  line-height: 1.8;
+  max-width: 800px;
+  margin: 0 auto;
+  color: #555;
+}
+
+/* Section compétences */
+section {
+  padding: 40px 0;
+}
