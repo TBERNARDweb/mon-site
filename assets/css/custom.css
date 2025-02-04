@@ -87,27 +87,40 @@ h3 {
   text-align: left;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+section#attentes p {
+  font-size: 1.2em;
+  color: #666;
+  max-width: 900px;
+  margin: 0 auto;
+  line-height: 1.8;
 }
 
-ul li {
-  background-color: #f9f9f9;
-  padding: 10px 20px;
-  margin: 5px 0;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-ul li:hover {
-  background-color: #f0f0f0;
-}
-
-/* Section Attentes */
-section#attentes {
-  background-color: #fafafa;
+/* Section Contact */
+#contact {
+  background-color: #0044cc;
+  color: white;
   padding: 40px 0;
   text-align: center;
+}
+
+#contact h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+#contact p {
+  font-size: 1.2em;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 40px;
+}
+
+footer p {
+  font-size: 1em;
 }
