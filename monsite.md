@@ -1,6 +1,6 @@
 ---
 title: "MonSite"
-order: 2
+order: 1
 in_menu: true
 ---
 <!-- Section d'accueil -->
