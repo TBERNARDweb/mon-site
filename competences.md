@@ -26,20 +26,3 @@ in_menu: true
 - Support utilisateur 
 
 © 2025 Thibault Bernard | Tous droits réservés 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-© 2025 Thibault Bernard | Tous droits réservés 
