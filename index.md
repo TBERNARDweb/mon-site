@@ -1,5 +1,5 @@
 ---
 title: "Accueil"
 order: 2
-in_menu: true
+in_menu: false
 ---
