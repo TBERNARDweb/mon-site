@@ -1,6 +1,6 @@
 ---
 title: "Compétences"
-order: 1
+order: 2
 in_menu: true
 ---
 # 🎓
