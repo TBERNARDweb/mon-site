@@ -18,13 +18,6 @@ in_menu: true
 
 
 
----
-
-## Attentes
-*Je cherche à rejoindre une équipe dynamique où je pourrai développer mes compétences techniques, relever de nouveaux défis et contribuer à la performance des systèmes informatiques. Mon objectif est de continuer à évoluer dans un environnement innovant et d'apprendre de nouvelles technologies.*
-
----
-
 ## Contact
 Email : [contactprotbernard@gmail.com](mailto:contactprotbernard@gmail.com)
 
