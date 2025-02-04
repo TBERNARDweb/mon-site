@@ -7,7 +7,7 @@ in_menu: true
 
 ## Bonjour, Thibault BERNARD
 ### TECHNICIEN D'ASSISTANCE INFORMATIQUE
-[Voir mon CV]CV.pdf
+[Voir mon CV](#cv)
 
 ---
 
