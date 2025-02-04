@@ -10,7 +10,7 @@ in_menu: true
       <h2>Bonjour, Thibault BERNARD</h2>
       <p>TECHNICIEN D'ASSISTANCE INFORMATIQUE</p>
       <a href="#cv" class="button">Voir mon CV</a>
-    </div>
+ 
   <!-- À propos de moi -->
   <section id="about">
     <div class="container">
