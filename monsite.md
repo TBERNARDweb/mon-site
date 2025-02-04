@@ -1,7 +1,7 @@
 ---
 title: "MonSite"
 order: 0
-in_menu: true
+in_menu: false
 ---
 # 👨‍💻
 
