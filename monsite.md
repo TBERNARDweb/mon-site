@@ -3,15 +3,14 @@ title: "MonSite"
 order: 1
 in_menu: true
 ---
+<body>
 <!-- Section d'accueil -->
-
     <div class="container">
       <h1><p style="font-size:100px">&#128187;</p>
       <h2>Bonjour, Thibault BERNARD</h2>
       <p>TECHNICIEN D'ASSISTANCE INFORMATIQUE</p>
       <a href="#cv" class="button">Voir mon CV</a>
     </div>
-
   <!-- À propos de moi -->
   <section id="about">
     <div class="container">
