@@ -24,3 +24,5 @@ in_menu: true
 - Virtualisation (VMware, Hyper-V)
 - Gestion des serveurs
 - Support utilisateur 
+
+© 2025 Thibault Bernard | Tous droits réservés 
