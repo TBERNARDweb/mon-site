@@ -1,6 +1,6 @@
 ---
 title: "MonCV"
-order: 6
+order: 4
 in_menu: true
 ---
 [Voir mon CV](CV.pdf) 
