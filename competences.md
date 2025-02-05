@@ -5,7 +5,7 @@ in_menu: true
 ---
 📂[Voir mon CV](CV.pdf) 
 
-  # 🎓Soft Skills
+  # 🎓 Soft Skills
 - Empathie
 - Patience
 - Esprit d’équipe
