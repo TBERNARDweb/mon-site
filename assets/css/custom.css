@@ -1,1 +1,34 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
+.scribouilli {
+  position: relative;
+  display: inline-block;
+  font-family: 'Brush Script MT', cursive; /* Police qui ressemble à du gribouillage */
+  font-size: 40px;
+  color: transparent;
+  background-image: linear-gradient(45deg, #ff6a00, #ee0979); /* Dégradé pour ajouter du style */
+  background-clip: text;
+  animation: scribouilli 3s infinite linear;
+}
+
+@keyframes scribouilli {
+  0% {
+    transform: rotate(0deg) translateX(0px) translateY(0px);
+  }
+  25% {
+    transform: rotate(10deg) translateX(5px) translateY(-5px);
+  }
+  50% {
+    transform: rotate(-10deg) translateX(-5px) translateY(5px);
+  }
+  75% {
+    transform: rotate(5deg) translateX(5px) translateY(0px);
+  }
+  100% {
+    transform: rotate(0deg) translateX(0px) translateY(0px);
+  }
+}
