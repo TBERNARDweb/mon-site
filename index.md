@@ -5,7 +5,6 @@ in_menu: true
 ---
 <title>Thibault BERNARD - Technicien Informatique</title>
   <link rel="stylesheet" href="style.css">
-</head>
 <body>
 
   <div class="container">
@@ -17,5 +16,4 @@ in_menu: true
     </footer>
   </div>
 
-</body>
-</html> 
+</body> 
