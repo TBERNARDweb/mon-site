@@ -1,34 +1,64 @@
 * {
-  box-sizing: border-box;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
-.scribouilli {
-  position: relative;
-  display: inline-block;
-  font-family: 'Brush Script MT', cursive; /* Police qui ressemble à du gribouillage */
-  font-size: 40px;
-  color: transparent;
-  background-image: linear-gradient(45deg, #ff6a00, #ee0979); /* Dégradé pour ajouter du style */
-  background-clip: text;
-  animation: scribouilli 3s infinite linear;
+/* Body Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #3498db, #2980b9);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  padding: 0 20px;
 }
 
-@keyframes scribouilli {
-  0% {
-    transform: rotate(0deg) translateX(0px) translateY(0px);
-  }
-  25% {
-    transform: rotate(10deg) translateX(5px) translateY(-5px);
-  }
-  50% {
-    transform: rotate(-10deg) translateX(-5px) translateY(5px);
-  }
-  75% {
-    transform: rotate(5deg) translateX(5px) translateY(0px);
-  }
-  100% {
-    transform: rotate(0deg) translateX(0px) translateY(0px);
-  }
+.container {
+  background-color: rgba(255, 255, 255, 0.1); /* Transparent white for contrast */
+  padding: 30px 50px;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Header styles */
+h1 {
+  font-size: 80px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 36px;
+  color: #ecf0f1;
+  margin-top: 0;
+}
+
+h3 {
+  font-size: 24px;
+  color: #bdc3c7;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+/* Footer Styling */
+footer {
+  margin-top: 30px;
+}
+
+footer p {
+  font-size: 14px;
+  color: #ecf0f1;
+}
+
+footer p a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+footer p a:hover {
+  text-decoration: underline;
 }
