@@ -3,8 +3,9 @@ title: "Compétences"
 order: 2
 in_menu: true
 ---
-# 🎓
-## Compétences
+[Voir mon CV](CV.pdf) 
+
+# 🎓 Compétences
 
 ### Soft Skills
 - Empathie
